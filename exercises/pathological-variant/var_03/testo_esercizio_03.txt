@@ -1,0 +1,10 @@
+####################################
+## VARIANTI PATOLOGICHE ###########
+###################################
+
+
+Nella cartella troverai un VCF file con 6 varianti.
+
+Individua fra queste la variante che con maggiore probabilità è causa di una patologia,
+indica il nome della patologia e usando gli strumenti visti a lezione porta delle evidenze 
+a supporto della tua conclusione.

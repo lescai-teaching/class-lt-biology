@@ -1,0 +1,11 @@
+##fileformat=VCFv4.3
+##source=BioinformaticsExam
+##INFO=<ID=AA,Number=1,Type=String,Description="Annotation">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	TEST
+4	113373152	rs2293324	T	C	.	.	benign_ANK2_Long QT syndrome_0.31330	GT	0/1
+7	97859257	rs1049674	A	C	.	.	benign_CZ1P-ASNS,ASNS_Asparagine synthetase deficiency_0.12400	GT	0/1
+17	70178028	rs35753731	TTTTTTTTTTTTTTTTT	TTTTTTTTTT	.	.	uncertain significance_KCNJ2_Familial atrial fibrillation_0.24420	GT	0/1
+13	94405248	rs45618731	A	C	.	.	benign_GPC6_Autosomal recessive omodysplasia_0.22220	GT	0/1
+1	15443607	rs545634	G	A	.	.	benign_CTRC_Hereditary pancreatitis_0.07288	GT	0/1
+6	135455811	777668842	G	A	.	.	Pathogenic_AHI1_Joubert syndrome 3|Joubert syndrome|not provided|Retinal dystrophy|Nephronophthisis_criteria provided, multiple submitters, no conflicts	GT	0/1

@@ -1,0 +1,11 @@
+##fileformat=VCFv4.3
+##source=BioinformaticsExam
+##INFO=<ID=AA,Number=1,Type=String,Description="Annotation">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	TEST
+11	2620215	rs200391321	T	A	.	.	benign_KCNQ1OT1,KCNQ1_Long QT syndrome_0.2145	GT	0/1
+1	226987123	rs11420839	TTTT	TTTTT	.	.	benign_COQ8A_Autosomal recessive cerebellar ataxia_0.2927	GT	0/1
+1	226987201	rs8159	G	A	.	.	benign_COQ8A_Autosomal recessive cerebellar ataxia_0.3520	GT	0/1
+1	226987201	rs8159	G	A	.	.	benign_COQ8A_Autosomal recessive cerebellar ataxia_0.3520	GT	0/1
+7	97859257	rs1049674	A	C	.	.	benign_CZ1P-ASNS,ASNS_Asparagine synthetase deficiency_0.1240	GT	0/1
+2	39056704	397517172	T	C	.	.	Pathogenic_SOS1_Noonan syndrome|not provided|Rasopathy|Inborn genetic diseases|not specified_reviewed by expert panel	GT	0/1

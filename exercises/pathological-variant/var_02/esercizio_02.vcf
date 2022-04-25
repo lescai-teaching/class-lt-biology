@@ -1,0 +1,11 @@
+##fileformat=VCFv4.3
+##source=BioinformaticsExam
+##INFO=<ID=AA,Number=1,Type=String,Description="Annotation">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	TEST
+4	113373152	.	T	C	.	.	.	GT	0/1
+7	97859257	.	A	C	.	.	.	GT	0/1
+17	70178028	.	TTTTTTTTTTTTTTTTT	TTTTTTTTTT	.	.	.	GT	0/1
+13	94405248	.	A	C	.	.	.	GT	0/1
+1	15443607	.	G	A	.	.	.	GT	0/1
+6	135455811	.	G	A	.	.	.	GT	0/1

@@ -1,0 +1,11 @@
+##fileformat=VCFv4.3
+##source=BioinformaticsExam
+##INFO=<ID=AA,Number=1,Type=String,Description="Annotation">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	TEST
+2	166041354	rs6432860	A	G	.	.	benign_SCN1A_Early infantile epileptic encephalopathy_0.21110	GT	0/1
+2	166036278	rs2298771	C	G	.	.	benign_SCN1A,LOC102724058_Early infantile epileptic encephalopathy_0.21150	GT	0/1
+4	113357121	rs3733617	C	G	.	.	benign_ANK2_Long QT syndrome_0.18790	GT	0/1
+4	113358266	rs10013743	A	G	.	.	benign_ANK2_Long QT syndrome_0.09205	GT	0/1
+10	82985284	rs17101196	A	G	.	.	uncertain significance_NRG3_Hirschsprung disease_0.09525	GT	0/1
+17	46010418	63751011	C	T	.	.	Pathogenic_MAPT_not provided|Dementia|Frontotemporal dementia;Mental deterioration;Memory impairment|Frontotemporal dementia_criteria provided, multiple submitters, no conflicts	GT	0/1

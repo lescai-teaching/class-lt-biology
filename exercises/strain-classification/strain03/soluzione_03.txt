@@ -1,0 +1,11 @@
+delta	hCoV-19/England/CAMC-141DB08/2021
+alpha	hCoV-19/England/MILK-AC8680/2020
+alpha	hCoV-19/England/MILK-AC94C1/2020
+beta	hCoV-19/Sweden/20-51765/2020
+beta	hCoV-19/England/CAMB-1AE30A/2020
+delta	hCoV-19/Australia/WA658/2021
+delta	hCoV-19/USA/NY-PRL-2021_03_29_01C17/2021
+epsilon	hCoV-19/USA/CA-CZB-12943/2020
+epsilon	hCoV-19/USA/CA-LACPHL-AF00015/2020
+gamma	hCoV-19/Japan/IC-0562/2021
+gamma	hCoV-19/Brazil/AM-L70-CD1721/2020

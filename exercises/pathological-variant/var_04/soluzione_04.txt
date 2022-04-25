@@ -1,0 +1,11 @@
+##fileformat=VCFv4.3
+##source=BioinformaticsExam
+##INFO=<ID=AA,Number=1,Type=String,Description="Annotation">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	TEST
+10	100990866	rs3740486	T	A	.	.	benign_TWNK_Autosomal recessive cerebellar ataxia_0.37600	GT	0/1
+4	113336045	rs3736575	C	T	.	.	benign_ANK2_Long QT syndrome_0.26040	GT	0/1
+14	89955921	rs35210768	GCCGCCG	GCCGCCGCCG	.	.	benign_TDP1_Autosomal recessive cerebellar ataxia_0.13480	GT	0/1
+4	113358266	rs10013743	A	G	.	.	benign_ANK2_Long QT syndrome_0.09205	GT	0/1
+1	229434057	rs605428	G	A	.	.	benign_ACTA1_Familial restrictive cardiomyopathy_0.35640	GT	0/1
+7	117594977	267606722	G	A	.	.	Pathogenic_CFTR_Cystic fibrosis|Cystic fibrosis;Congenital bilateral aplasia of vas deferens from CFTR mutation_reviewed by expert panel	GT	0/1

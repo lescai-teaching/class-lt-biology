@@ -1,0 +1,10 @@
+##########################################
+### ESERCIZIO DI CLASSIFICAZIONE #########
+##########################################
+
+
+Nella cartella troverai un file multi-fasta (diverse sequenze, ciascuna identificata da un nome, nello stesso file).
+Le sequenze sono una parte del genoma di SARS-CoV-2.
+Tutte le sequenze tranne una sono state classificate secondo la suddivisione in varianti del WHO.
+
+Utilizza i metodi visti a lezione per classificare la sequenza sconosciuta in una delle varianti.
