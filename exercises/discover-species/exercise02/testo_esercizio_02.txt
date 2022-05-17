@@ -1,0 +1,12 @@
+#######################################
+### INDIVIDUA LA SEQUENZA #############
+#######################################
+
+
+Nella cartella dell'esercizio troverai un file multi-fasta (diverse sequenze, ciascuna identificata da un nome, nello stesso file).
+
+Il file contiene 5 sequenze:
+- 4 sequenze appartengono allo stesso organismo
+- 1 sequenza appartiene ad un organismo diverso dalle altre 4
+
+Utilizzando gli strumenti visti a lezione, scopri a quale organismo appartiene questa singola sequenza.

@@ -1,0 +1,5 @@
+reference	esercizio_1	BCX29393.1
+reference	esercizio_2	QSV77090.1
+reference	esercizio_3	QSL80465.1
+reference	esercizio_4	QSV99298.1
+diversa	esercizio_5	GAB68491.1  # surface protein [Plasmodium cynomolgi strain B]
